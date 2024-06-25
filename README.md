@@ -6,6 +6,5 @@ In this chapter of the tutorial, You'll learn how to use the [Microsoft.Identity
 
    <img src="/ReadmeFiles/sign-in.png" width="50%"/>
 
-   Depending on your business needs, the platform offers you flexibility in terms of what type of users ([sign in audience](https://aka.ms/signinaudience)) can sign-in to your application:
-
+   MSAL is not being used since  oidc protocol is leveraged
  
