@@ -4,7 +4,7 @@
 
 In this chapter of the tutorial, You'll learn how to use the [Microsoft.Identity.Web](https://aka.ms/microsoft-identity-web) to secure your Web App with the Microsoft Identity Platform..
 
-   <img src="../ReadmeFiles/sign-in-audiences.png" width="50%"/>
+   <img src="/ReadmeFiles/sign-in.png" width="50%"/>
 
    Depending on your business needs, the platform offers you flexibility in terms of what type of users ([sign in audience](https://aka.ms/signinaudience)) can sign-in to your application:
 
